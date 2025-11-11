@@ -1,1 +1,1 @@
-print("Ahora si te lo toco si no te importa")
+print("Ahora si 1.0")
