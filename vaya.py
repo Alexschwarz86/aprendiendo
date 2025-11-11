@@ -1,1 +1,1 @@
-hola buenas tete
+print("Ahora si")
